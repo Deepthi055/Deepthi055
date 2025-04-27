@@ -1,4 +1,4 @@
-# 💫 About Me:
+ 💫 About Me:
 🙋‍♀️<br>Hi, I'm Deepthi — a passionate developer who loves building creative and user-friendly applications!<br><br>🛠️ I'm currently working on:<br>React.js projects, Java-based applications, and improving my frontend development skills.<br><br>🤝 I'm looking to collaborate on:<br>Web development, Java projects, open-source contributions, and creative UI/UX-focused applications.<br><br>💡 I'm looking for help with:<br>Exploring backend development, API integration, and full-stack workflows.<br><br>🌱 I'm currently learning:<br>Java, JavaScript, React, and the basics of Node.js and MongoDB.<br><br>⚡ Fun fact:<br>I enjoy turning simple ideas into real projects—and love learning while doing it!
 
 
