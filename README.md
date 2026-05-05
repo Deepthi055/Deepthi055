@@ -7,7 +7,7 @@ Hi 👋 I'm Deepthi
 ---
 
 ### 🚀 Currently
-- Working on React.js projects  
+- Working on some projects  
 - Practicing Data Structures & Algorithms  
 
 ---
