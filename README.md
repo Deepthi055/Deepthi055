@@ -1,5 +1,28 @@
- 💫 About Me:
-🙋‍♀️<br>Hi, I'm Deepthi — a passionate developer who loves building creative and user-friendly applications!<br><br>🛠️ I'm currently working on:<br>React.js projects, Java-based applications, and improving my frontend development skills.<br><br>🤝 I'm looking to collaborate on:<br>Web development, Java projects, open-source contributions, and creative UI/UX-focused applications.<br><br>💡 I'm looking for help with:<br>Exploring backend development, API integration, and full-stack workflows.<br><br>🌱 I'm currently learning:<br>Java, JavaScript, React, and the basics of Node.js and MongoDB.<br><br>⚡ Fun fact:<br>I enjoy turning simple ideas into real projects—and love learning while doing it!
+Hi 👋 I'm Deepthi
+
+🎓 Engineering Student  
+
+💻 Interested in building clean and user-friendly web applications  
+
+---
+
+### 🚀 Currently
+- Working on React.js projects  
+- Practicing Data Structures & Algorithms  
+
+---
+
+### 🌱 Learning
+- Java  
+- JavaScript  
+- React  
+- Node.js & MongoDB (basics)  
+
+---
+
+### 💡 Focus
+- Improving problem-solving skills (LeetCode)  
+- Strengthening frontend + exploring backend  
 
 
 ## 🌐 Socials:
@@ -24,7 +47,7 @@ https://www.linkedin.com/in/deepthi-072145328/
 ---
 [![](https://visitcount.itsvg.in/api?id=Deepthi055&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
 **Deepthi055/Deepthi055** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
