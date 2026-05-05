@@ -21,7 +21,7 @@ Hi 👋 I'm Deepthi
 ---
 
 ### 💡 Focus
-- Improving problem-solving skills (LeetCode)  
+- Improving problem-solving skills  
 - Strengthening frontend + exploring backend  
 
 
